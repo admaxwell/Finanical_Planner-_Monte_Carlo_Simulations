@@ -72,4 +72,4 @@ email: antiwan.maxwell@outlook.com
 
 ## License
 
-[MIT](license.txt)
+[MIT](LICENSE)
